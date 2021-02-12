@@ -8,51 +8,51 @@
 ---
 Standards:
   -
-    Title: 01Flutes
-    Description: 01Flutes
-    UID: d7f4730a7eece24caf6ef930e43bea32
+    Title: Flutes
+    Description: Flutes
+    UID: b4c264b541758b2b64129cc549493d10
     SuccessCriteria:
       - success criteria
     ContentFiles:
       -
         Type: Lesson
-        UID: 835657064559652042a19e77c9559d07
-        Path: /01Flutes/01Classical Flute.md
+        UID: 0425bafb912a9010f9724d7bf5441d4c
+        Path: /01-Flutes/01Classical Flute.md
       -
         Type: Lesson
-        UID: 3d40e9beb31083e26ddd6dbd0b1860e9
-        Path: /01Flutes/02Irish Flute.md
+        UID: 2213592fda77e55b56f45f84d36893ea
+        Path: /01-Flutes/02Irish Flute.md
       -
         Type: Lesson
-        UID: f56de2760799a847cd5bfeaa96f2c9c1
-        Path: /01Flutes/03Pan Pipes.md
+        UID: b26dc0b6ebd543a3605b7d499c1e52f4
+        Path: /01-Flutes/03Pan Pipes.md
       -
         Type: Checkpoint
-        UID: def3d6977f0373f12b0210959bfed5b1
-        Path: /01Flutes/04-checkpoint.md
+        UID: 4b86b0d12f62ed5badd54a644694b6b8
+        Path: /01-Flutes/04-checkpoint.md
   -
-    Title: 02Drums
-    Description: 02Drums
-    UID: 81aba8238f193fe6b660ec94adf3e99f
+    Title: Drums
+    Description: Drums
+    UID: 9115b9fbbb1f11df6600c6388177c648
     SuccessCriteria:
       - success criteria
     ContentFiles:
       -
         Type: Lesson
-        UID: e579fa09766858bf3a46bca4ae0662a0
-        Path: /02Drums/01Drum Sets.md
+        UID: 1bb70309794e9ca9a398fb1dd7be8ba2
+        Path: /02-Drums/01Drum Sets.md
       -
         Type: Lesson
-        UID: 7fe1c1cc565605c6e1cef8b9b449a6c9
-        Path: /02Drums/02Bodhran.md
+        UID: 2deb77b2efa4f3debffbf71942b2a6fa
+        Path: /02-Drums/02Bodhran.md
   -
-    Title: 03Trumpets
-    Description: 03Trumpets
-    UID: d0c39a76ff28ff437fab16fa84b979cd
+    Title: Trumpets
+    Description: Trumpets
+    UID: 1fee133171a8d902b4d9977f766457bf
     SuccessCriteria:
       - success criteria
     ContentFiles:
       -
         Type: Lesson
-        UID: 33b09e6b29f081976f6c08bb2686b8e8
-        Path: /03Trumpets/01Bugle.md
+        UID: 10b856d968f502b5d06bdfe6bf7e5c71
+        Path: /03-Trumpets/01Bugle.md
