@@ -1,12 +1,10 @@
-# Irish Flute
+# Classical Flute
 
 ## Learning Objectives
 
 By the end of this lesson you will be able to:
 
-* First Objective
-* [at least one]
-* [no more than four]
+
 
 ## Lesson Content
 
@@ -17,32 +15,34 @@ By the end of this lesson you will be able to:
 <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
 <!-- Replace everything in square brackets [] and remove brackets  -->
 
+### !callout-warning
+#Warning
+Important! Don't forget that silver flutes should be kept out of the extreme cold.
+### !end-callout
+
 ### !challenge
 
-* type: multiple-choice
-* id: 85312b4f-01d8-47c5-b40c-a2ff8bcfabae
+* type: short-answer
+* id: c8bc956d-6c12-4c5e-8db8-53ab052a81ab
 * title: [text, a short question title]
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
 ##### !question
 
-Which material are Irish Flutes most commonly made from?
+Why are Classical flutes less cool than Irish flutes?
 
 ##### !end-question
 
-##### !options
+##### !placeholder
 
-* African Blackwood
-* Plastic
-* Silver
-* Tin
+[text, placeholder text for the input field]
 
-##### !end-options
+##### !end-placeholder
 
 ##### !answer
 
-* African Blackwood
+[text or regex, the answer (if regex wrap in /)]
 
 ##### !end-answer
 

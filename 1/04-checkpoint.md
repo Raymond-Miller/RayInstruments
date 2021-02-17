@@ -1,44 +1,23 @@
-# Classical Flute
-
-## Learning Objectives
-
-By the end of this lesson you will be able to:
-
-* First Objective
-* [at least one]
-* [no more than four]
-
-## Lesson Content
-
-[Can be written content, videos, slides, images, gifs, etc. Think about including a rationale as the first few sentences/paragraph if you feel the lesson requires significant motivation or context. Examples of markdown formatting are at https://learn-2.galvanize.com/cohorts/667/blocks/13/content_files/walkthrough/03b-markdown-examples.md]
-
-## Challenges
-
 <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
 <!-- Replace everything in square brackets [] and remove brackets  -->
-
-### !callout-warning
-#Warning
-Important! Don't forget that silver flutes should be kept out of the extreme cold.
-### !end-callout
 
 ### !challenge
 
 * type: short-answer
-* id: c8bc956d-6c12-4c5e-8db8-53ab052a81ab
-* title: [text, a short question title]
+* id: e62bd404-56dc-4f9e-b1bf-a458a546c596
+* title: Short Answer Challenge
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
 ##### !question
 
-Why are Classical flutes less cool than Irish flutes?
+Write an essay about flutes.
 
 ##### !end-question
 
 ##### !placeholder
 
-[text, placeholder text for the input field]
+Should be 500 words or less.
 
 ##### !end-placeholder
 
